@@ -1,16 +1,14 @@
-# flash_pay_app
+# Flash Pay App Redesign 
 
-A new Flutter project.
+Flash Pay - A Flutter virtual card to purchase digital products UI. dont forge to star ⭐ the repo. 
+## Final Result 
+![Feature Image](https://cdn.dribbble.com/users/2017098/screenshots/8309675/media/fd3b6b98f9e0b5900cccd162ef047a9e.png)
 
-## Getting Started
+<p align="center">
+   
+<a href="https://www.linkedin.com/askarmus/">
+    <img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
+ </p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Design Credits
+[Ann Negrebetskaya](https://dribbble.com/shots/8309675-Flash-Pay-App)
