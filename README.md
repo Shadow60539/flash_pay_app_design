@@ -1,6 +1,6 @@
 # Flash Pay App Redesign 
 
-Flash Pay - A Flutter virtual card to purchase digital products UI. dont forge to star ⭐ the repo. 
+Flash Pay - A Flutter virtual card to purchase digital products UI made with Flutter. dont forge to star ⭐ the repo. 
 ## Final Result 
 ![Feature Image](https://cdn.dribbble.com/users/2017098/screenshots/8309675/media/fd3b6b98f9e0b5900cccd162ef047a9e.png)
 <p align="center">
